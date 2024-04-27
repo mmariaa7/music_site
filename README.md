@@ -13,19 +13,18 @@ Fabriqué avec
 
 L'architecture du projet:
 
-edsa-sitee
-| 
-|-- images
-|   |-- albums
-|   |-- artistes
-|   |-- demo
-|   |-- site
-|   `-- users
-|-- include
-|   |-- musique
-|   |-- connect.php
-|   |-- entete.php
-|   |-- fonctions.php
-|   `-- pied.php
-`-- styles
-    `-- layout
+- edsa-sitee
+  - images
+    - albums
+    - artistes
+    - demo
+    - site
+    - users
+  - include
+    - musique
+    - connect.php
+    - entete.php
+    - fonctions.php
+    - pied.php
+  - styles
+    - layout
